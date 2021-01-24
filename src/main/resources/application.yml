@@ -1,0 +1,7 @@
+camel:
+  springboot:
+    main-run-controller: true
+
+path:
+  inbound: file:/C:/test/in
+  outbound: file:/C:/test/out 
